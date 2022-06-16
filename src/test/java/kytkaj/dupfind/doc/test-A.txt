@@ -1,0 +1,11 @@
+Getting started
+
+Check out the most useful and popular topics to get you started with IntelliJ IDEA.
+
+Accessibility
+
+Use a screen reader, adjust the colors and font size to assists users with sight deficiency
+
+IntelliJ IDEA
+
+Learn and teach programming with a professional tool

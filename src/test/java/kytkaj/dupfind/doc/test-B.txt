@@ -1,0 +1,19 @@
+NetBeans
+
+IntelliJ IDEA
+
+Project
+
+Module
+
+Global library
+
+Global library
+
+Project library
+
+Module library
+
+Project dependency
+
+Module dependency
